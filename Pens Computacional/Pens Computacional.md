@@ -11,11 +11,12 @@
 - É sistemático e eficiente, entre humanos e máquinas, formulação e resolução de problemas, habilidade generalista.</br>
   </details>
    
-### Pilares do Pensamento Computacional
+### Pilares do Pensamento Computacional </br>
 
-**Decomposição:** dividir um problema complexo em subproblemas.</br>
-**Padrões:** similaridades e diferenças entre os problemas.</br>
-**Abstração:** entender como soluções podem ser reutilizadas em múltiplos cenários. (resolução de problemas).
-Extrapolar o conceito do problema para uma forma generalista ( classes, métodos, herança, poliorfismo).</br>
-**Algorítmo:** definir ordem ou sequência de passos para solução de problema. Automatizar.</br>
 
+| Pilares  |  Breve definição  |
+| ------------------- | ------------------- |
+|**Decomposição:**| Dividir um problema complexo em subproblemas.|</br>
+ |  **Padrões:** |  Similaridades e diferenças entre os problemas.|</br>
+|  **Abstração:** | Entender como soluções podem ser reutilizadas em múltiplos cenários. (resolução de problemas). Extrapolar o conceito do problema para uma forma generalista ( classes, métodos, herança, poliorfismo).|</br>
+|  **Algorítmo:** | Definir ordem ou sequência de passos para solução de problema. Automatizar.|</br>
