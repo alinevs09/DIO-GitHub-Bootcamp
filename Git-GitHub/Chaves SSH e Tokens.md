@@ -23,7 +23,7 @@ Digite **ls** (Enter)</br>
 Digitar senha (Enter)</br>
 No Github vai clonar um repositório.</br>
 Na parte de cima da página ao lado direito tem um botão verde chamado **<>Code**, clicando nele aparecem alguma opções de endereços, clique em SSH e copie o código gerado.</br>
-Volte no terminal bash, digite **git clone** (Enter)</br>
+Volte no terminal bash, digite **git clone (cola o código aqui)** (Enter)</br>
 Escolha **Yes** (Enter)</br>
 Digite **Ls** (Enter)</br>
 Aparece um endereço github e está pronto.</br>
