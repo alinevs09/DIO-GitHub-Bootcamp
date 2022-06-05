@@ -9,13 +9,14 @@
 - Um algoritmo é um plano, uma estratégia, ou um conjunto de instruções ordenadas para a solução de um problema ou execução de uma tarefa.</br>
 </br>
   </details>
+  
 - A formulação de um algoritmo passa pelo processo de decomposição, reconhecimento de padrões e abstração.</br>
 - Na execução seguirão os passos pré-definidos, não havendo a necessidade de cria um novo algoritmo para cada uma de sua execuções anteriores.</br>
 - É o pilar que agrega os demais pilares:</br>
-* energia</br>
-* trabalhador</br>
-* eficiência</br>
-* rapidez</br>
+   - energia</br>
+   - trabalhador</br>
+   - eficiência</br>
+   - rapidez</br>
 - Não opera sozinho</br>
 - Precisa de instruções detalhadas</br>
 - As instruções podem ser escritas em formato de diagrama, psudocódigo (linguagem humana) ou em linguagem de programação (códigos).</br>
