@@ -15,7 +15,7 @@ Ls</br>
 Ls –a** (para exibir pastas ocultas)</br>
 **Cd . git/</br>
 Ls</br>
-cd..** (para voltar um nível)</br>
+cd ..** (para voltar um nível)</br>
 **git config –global user.email alinevs@gmail.com** (substitua o meu email pelo seu email que usou para criar sua conta no GitHub)</br>
 **git config –global user.name alinevs09** (substitua o meu nickname alinevs09 pelo o que vc cadastrou quando criou sua conta no GitHub)</br>
 
