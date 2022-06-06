@@ -1,4 +1,4 @@
-# Lógica
+# Lógica 🧮
 
 <blockquote>
   <details>
