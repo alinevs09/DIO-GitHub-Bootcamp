@@ -1,4 +1,4 @@
-# Raciocínio Lógico
+# Raciocínio Lógico 💭
 
 <blockquote>
   <details>
@@ -19,4 +19,4 @@
 |  **Abdução:** | Premissa, conclusão.|</br>
 |  **Inferência:** | sintética: abdução e indução.|</br>
 |                   |     analítica: dedução|</br>
-|</br>
+</br>
