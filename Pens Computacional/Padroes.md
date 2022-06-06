@@ -16,14 +16,14 @@ Generalizar, com objetivo de obter resolução para problemas diferentes.
 
 ### Por que determinar padrões❔
 
-Categorias e classes, grau de similaridade, grupos conhecidos
+Categorias e classes, grau de similaridade, grupos conhecidos.
 
 ### Como o computador reconhece padrões❔
 Por comparação.
 
 ### Como fazer isso❔
 
-Por representação de atributos, aprendizado – conceito associado ao objeto, armazenar dados, regras de decisão.
+Por representação de atributos, aprendizado – conceito associado ao objeto, armazenamento de dados, regras de decisão.
 
 ### Aplicações:
 
@@ -35,7 +35,7 @@ Por representação de atributos, aprendizado – conceito associado ao objeto, 
 
 ### Áreas:
 
-- Machine learning
-- Redes neurais
-- Inteligência artificial
-- Ciência de dados
+- Machine Learning
+- Redes Neurais
+- Inteligência Artificial
+- Ciência de Dados
