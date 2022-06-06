@@ -1,4 +1,4 @@
-# Token de Acesso Pessoal
+# Token de Acesso Pessoal 💻
 
 O Token de acesso pessoal é uma garantia a mais de segurança que é gerado no GitHub e sempre que você for fazer um commit ele será solicitado.
 
