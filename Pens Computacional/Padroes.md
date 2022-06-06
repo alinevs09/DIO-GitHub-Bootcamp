@@ -1,4 +1,4 @@
-# Padrões
+# Padrões ♖♜
 
 ### Reconhecimento de padrões:
 
@@ -10,18 +10,18 @@
 - São similaridades ou características que alguns problemas compartilham.
 - Quanto mais padrões encontramos, mais fácil e rápida será a nossa tarefa geral da solução de problemas.
 
-### Para o que é usado?
+### Para o que é usado❔
 
 Generalizar, com objetivo de obter resolução para problemas diferentes.
 
-### Por que determinar padrões?
+### Por que determinar padrões❔
 
 Categorias e classes, grau de similaridade, grupos conhecidos
 
-### Como o computador reconhece padrões?
+### Como o computador reconhece padrões❔
 Por comparação.
 
-### Como fazer isso?
+### Como fazer isso❔
 
 Por representação de atributos, aprendizado – conceito associado ao objeto, armazenar dados, regras de decisão.
 
