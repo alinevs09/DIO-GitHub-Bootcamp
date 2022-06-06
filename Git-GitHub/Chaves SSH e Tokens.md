@@ -1,4 +1,4 @@
-# Chaves SSH e Tokens
+# Chaves SSH e Tokens 🔐
 
 As Chave SSH são uma forma de conceber uma conexão segura e encriptada entre duas máquinas. Uma chave pública (da nossa máquina) e uma chave privada. No site do Github, nas configurações é possível ir na opção SSH Keys e gerar uma chave.
 
