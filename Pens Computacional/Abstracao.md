@@ -1,4 +1,4 @@
-# Abstração
+# Abstração 🧩
 
 - Processo intelectual de isolamento de um objeto da realidade.
 - Observar, um ou mais elementos, avaliando características e proriedades em separado.
