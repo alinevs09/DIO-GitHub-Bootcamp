@@ -1,4 +1,4 @@
-# DIO-Desafio-GitHub
+# DIO-Desafio-GitHub 🏆
 Desafio de projeto sobre Git/GitHub - Primeiro Repositório
 
 <br>
