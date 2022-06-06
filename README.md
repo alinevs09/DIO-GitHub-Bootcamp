@@ -2,7 +2,7 @@
 `Desafio de projeto sobre Git/GitHub` - Primeiro Repositório
 
 <p align="center">
-  <img src="https://github.com/alinevs09/DIO-GitHub-Bootcamp/blob/teste/Imagens/bootcamp-dio-unimedbh.png" width="200" height="230">
+  <img src="https://github.com/alinevs09/DIO-GitHub-Bootcamp/blob/teste/Imagens/bootcamp-dio-unimedbh.png" width="200" height="200">
 </p>
 BootCamp FullStack Developer - [Unimed-BH](http://www.unimedbh.com.br/) [Digital Innovation One](https://www.dio.me/)
 
