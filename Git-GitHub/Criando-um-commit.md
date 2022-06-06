@@ -1,4 +1,4 @@
-# Criando um Commit <img src="https://github.com/alinevs09/DIO-GitHub-Bootcamp/blob/teste/Imagens/github.png">
+# Criando um Commit <img src="../Imagens/github.png">
 
 Aqui coloquei um passo a passo do código para a criação de um commit no Git Bash.
 
