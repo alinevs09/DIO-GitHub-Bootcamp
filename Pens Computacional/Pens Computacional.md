@@ -1,4 +1,4 @@
-# Pensamento Computacional <img src="https://github.com/alinevs09/DIO-GitHub-Bootcamp/blob/teste/Imagens/penscomp.png">
+# Pensamento Computacional <img src="../Imagens/penscomp.png">
 
 <blockquote>
   <details>
