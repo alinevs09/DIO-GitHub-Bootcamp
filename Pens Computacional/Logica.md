@@ -25,7 +25,7 @@
 
 ### Técnica estruturada:
 
-- Organização, disposição e ordem dos elementos essenciais que compóem um corpo (concreto ou abstrato).
+- Organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato).
 - Objetivo:
     - Escrita
     - Entendimento
@@ -34,9 +34,9 @@
 
 ### Técnica modular:
 
-- Partes independentes, controlada por um conjunto de regras.
+- Partes independentes, controladas por um conjunto de regras.
 
-Dados de entrada -> processo de transformação -> dados de saída
+Dados de entrada -> processo de transformação -> dados de saída.
 
-Metas: simplicação, decompor o problema e verificação do módulo
+Metas: simplicação, decompor o problema e verificação do módulo.
 
