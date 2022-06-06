@@ -3,7 +3,7 @@ Desafio de projeto sobre Git/GitHub - Primeiro Repositório
 
 <br>
 BootCamp FullStack Developer - [Unimed-BH](http://www.unimedbh.com.br/) [Digital Innovation One](https://www.dio.me/)
-<br>
+</br>
 
 O Programa Geração Tech Unimed-BH é um programa que oferece [bootcamps gratuitos](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack)
 que formará novos desenvolvedores fullstack nas tecnologias Javascript, MySQL, Angular e .NET. 
